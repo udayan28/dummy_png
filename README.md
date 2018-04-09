@@ -1,5 +1,5 @@
 ## DummyPNG
-拡張子がpngのファイルを100byte程度のpngに変換します
+拡張子がpngのファイルを100byte程度の無色のpngに変換します
 
 ## How to Use
 
@@ -7,8 +7,8 @@ dummy_targetにダミー化したいファイルを追加後
 
 ![ダミー化したいファイルの追加](https://user-images.githubusercontent.com/14251536/38484918-0c4bf57e-3c13-11e8-9ded-8606f70428fe.png)
 
- 　
-インストールディレクトリにて、python3 dummy.pyを実行。  
+
+インストールしたディレクトリにて、python3 dummy.pyを実行。  
 
 ![実行画面](https://user-images.githubusercontent.com/14251536/38484972-3f6a6f12-3c13-11e8-9c33-41e48d4e5d4f.png)
 
