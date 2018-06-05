@@ -8,7 +8,7 @@ dummy_targetにダミー化したいファイルを追加後
 ![ダミー化したいファイルの追加](https://user-images.githubusercontent.com/14251536/38484918-0c4bf57e-3c13-11e8-9ded-8606f70428fe.png)
 
 
-インストールしたディレクトリにて、python3 dummy.pyを実行。  
+インストールしたディレクトリにて、python3 dummy.pyを実行  
 
 ![実行画面](https://user-images.githubusercontent.com/14251536/38484972-3f6a6f12-3c13-11e8-9c33-41e48d4e5d4f.png)
 
@@ -18,7 +18,7 @@ dummy_targetにダミー化したいファイルを追加後
 ![Y選択後](https://user-images.githubusercontent.com/14251536/38485238-0a111f5e-3c14-11e8-810b-2dc77e30d1f7.png)
 
 
-dummied_fileの中にダミー化されたファイルが作成されます。  
+dummied_fileの中にダミー化されたファイルが作成されます  
 
 ![ダミー後](https://user-images.githubusercontent.com/14251536/38485068-8ebd0f48-3c13-11e8-8c94-c92926bd2210.png)
   
