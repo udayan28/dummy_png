@@ -3,7 +3,7 @@
 
 ## How to Use
 
-dummy_targetにダミー化したいファイルを追加後  
+dummy_targetにダミー化したいファイルを追加後
 
 ![ダミー化したいファイルの追加](https://user-images.githubusercontent.com/14251536/38484918-0c4bf57e-3c13-11e8-9ded-8606f70428fe.png)
 
@@ -28,7 +28,7 @@ dummied_fileの中にダミー化されたファイルが作成されます
 ### Homebrew (Mac OS)
 
 ※ Python3が入っていない方は下記等を参考にして、python3を入れてください
-https://qiita.com/gelehrte/items/857536509471b6b2d4a4
+[Mac + Windows + VisualStudio CodeでPythonの開発環境を整える（Mac版）](https://qiita.com/gelehrte/items/857536509471b6b2d4a4)
 
 ```
 git clone git@github.com:uda5150/dummy_png.git
